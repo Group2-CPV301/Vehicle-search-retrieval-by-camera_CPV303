@@ -126,7 +126,7 @@ The model was evaluated on the test set (877 images) after training for 81 epoch
 | 🚌 Bus | 0.713 | 0.787 | 0.754 | 0.525 |
 
 > **Highlights:**
-> * The model achieves high performance on the **Car** class (**mAP@50: 81.9%**), which is the most frequent object in traffic scenarios.
+> * The model achieves high performance on the **Car** class (**mAP@50: 82.8%**), which is the most frequent object in traffic scenarios.
 > * The integration of Coordinate Attention helps in distinguishing large vehicles (Trucks/Buses) with consistent accuracy (> 71% mAP@50).
 
 ### 2. Retrieval & Tracking Performance
