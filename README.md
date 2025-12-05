@@ -119,11 +119,11 @@ The model was evaluated on the test set (877 images) after training for 81 epoch
 
 | Class | Precision (P) | Recall (R) | mAP@50 | mAP@50-95 |
 | :--- | :---: | :---: | :---: | :---: |
-| **All Classes** | 0.631 | 0.751 | **0.633** | 0.404 |
-| 🚗 **Car** | **0.857** | **0.749** | **0.819** | **0.490** |
-| 🚛 Truck Large | 0.732 | 0.722 | 0.716 | 0.451 |
-| 🚚 Truck Medium | 0.746 | 0.683 | 0.716 | 0.464 |
-| 🚌 Bus | 0.692 | 0.728 | 0.683 | 0.446 |
+| **All Classes** | 0.645 | 0.755 | **0.628** | 0.415 |
+| 🚗 **Car** | **0.871** | **0.75** | **0.828** | **0.516** |
+| 🚛 Truck Large | 0.759 | 0.715 | 0.69 | 0.441 |
+| 🚚 Truck Medium | 0.76 | 0.686 | 0.705 | 0.474 |
+| 🚌 Bus | 0.713 | 0.787 | 0.754 | 0.525 |
 
 > **Highlights:**
 > * The model achieves high performance on the **Car** class (**mAP@50: 81.9%**), which is the most frequent object in traffic scenarios.
